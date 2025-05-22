@@ -4,6 +4,8 @@
 
 > Distribuído sob a licença **GNU Affero General Public License v3.0 (AGPLv3)**.
 
+> Desenvolvido e mantido por **Roberto Stzutski**, proprietário da **Actoweb**.
+
 ---
 
 ## 🔧 Visão Geral
